@@ -1,4 +1,5 @@
 # Cell 1 for Monte Carlo on Stocks
+# OPTIONAL CELL
 from google.colab import drive
 drive.mount('/content/drive')
 
